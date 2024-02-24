@@ -66,10 +66,11 @@ button{
 
 .all-comment{
     display: block;
-    background: white;
-    
-    margin-top: 20px;
+    background:rgba(246, 252, 252, 0.616);
+    width: 900px;
+    margin: 20px;
     border-radius: 10px;
+    
     
 }
 
